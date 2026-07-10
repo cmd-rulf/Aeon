@@ -9,7 +9,7 @@ cloudscraper
 cachetools
 dnspython
 ElectroCrypto
-kurigram
+pyrofork==2.2.11
 fastapi
 feedparser
 google-api-python-client
